@@ -1,0 +1,4 @@
+<script>  
+   window.uetq = window.uetq || [];  
+   window.uetq.push ('event', '', {'revenue_value': %%ORDER_AMOUNT%%});  
+</script>
